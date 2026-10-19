@@ -1,0 +1,131 @@
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.AssemblyReference.cache
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\KlientEditWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\KlientsWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\MainWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\MaterialEditWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\MaterialsWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\NakladnayasWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\PostavshiksWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\ProizvoditelEditWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\ProizvoditelsWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\ReportsWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\KlientEditWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\KlientsWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\MainWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\MaterialEditWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\MaterialsWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\NakladnayasWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\PostavshiksWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\ProizvoditelEditWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\ProizvoditelsWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\ReportsWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\App.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF_MarkupCompile.cache
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.g.resources
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.Properties.Resources.resources
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.GenerateResource.cache
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.CoreCompileInputs.cache
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\PostavshikEditWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\PostavshikEditWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\bin\Debug\SkladWPF.exe.config
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\bin\Debug\SkladWPF.exe
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\bin\Debug\SkladWPF.pdb
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\NakladnayaItemsWindow.baml
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\NakladnayaItemsWindow.g.cs
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.exe
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.pdb
+E:\!Programms\!Work\курсовик\SkladWPF\SkladWPF\obj\Debug\SkladWPF.exe.config
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\bin\Debug\SkladWPF.exe.config
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\bin\Debug\SkladWPF.exe
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\bin\Debug\SkladWPF.pdb
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.AssemblyReference.cache
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.exe.config
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\KlientEditWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\KlientsWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\MainWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\MaterialEditWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\MaterialsWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\NakladnayaItemsWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\NakladnayasWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\PostavshikEditWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\PostavshiksWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\ProizvoditelEditWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\ProizvoditelsWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\ReportsWindow.baml
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\KlientEditWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\KlientsWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\MainWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\MaterialEditWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\MaterialsWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\NakladnayaItemsWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\NakladnayasWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\PostavshikEditWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\PostavshiksWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\ProizvoditelEditWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\ProizvoditelsWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\ReportsWindow.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\App.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF_MarkupCompile.cache
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.g.resources
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.Properties.Resources.resources
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.GenerateResource.cache
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.CoreCompileInputs.cache
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.exe
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF.pdb
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\Authorization.g.cs
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\SkladWPF_MarkupCompile.lref
+D:\!ИС1-41\абдурозиков\SkladWPF\SkladWPF\obj\Debug\Authorization.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\bin\Debug\SkladWPF.exe.config
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\bin\Debug\SkladWPF.exe
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\bin\Debug\SkladWPF.pdb
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.AssemblyReference.cache
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.exe.config
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\MainWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\MaterialEditWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\MaterialsWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\NakladnayaItemsWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\NakladnayasWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\PostavshikEditWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\PostavshiksWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\ProizvoditelEditWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\ProizvoditelsWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\ReportsWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\Authorization.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\MainWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\MaterialEditWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\MaterialsWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\NakladnayaItemsWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\NakladnayasWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\PostavshikEditWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\PostavshiksWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\ProizvoditelEditWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\ProizvoditelsWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\ReportsWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\App.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF_MarkupCompile.cache
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF_MarkupCompile.lref
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\Authorization.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.g.resources
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.Properties.Resources.resources
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.GenerateResource.cache
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.CoreCompileInputs.cache
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.exe
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.pdb
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\bin\Debug\BouncyCastle.Cryptography.dll
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\bin\Debug\itextsharp.dll
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\bin\Debug\BouncyCastle.Cryptography.xml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\bin\Debug\itextsharp.xml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\SkladWPF.csproj.Up2Date
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\LoginWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\RegisterWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\LoginWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\RegisterWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\CounterpartiesWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\CounterpartyEditWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\CounterpartiesWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\CounterpartyEditWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\UserEditWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\UsersWindow.baml
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\UserEditWindow.g.cs
+E:\!Programms\!Work\курсовик\Новая папка\SkladWPF\SkladWPF\obj\Debug\UsersWindow.g.cs
