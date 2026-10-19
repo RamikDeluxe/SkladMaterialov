@@ -1,0 +1,76 @@
+﻿<Window x:Class="SkladWPF.UserEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование пользователя" Height="650" Width="450" WindowStartupLocation="CenterOwner">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="0,0,0,10">
+            <TextBlock Text="Логин:"/>
+            <TextBox x:Name="txtLogin" Padding="3"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="0,0,0,10">
+            <TextBlock Text="Пароль:"/>
+            <TextBox x:Name="txtPassword" Padding="3"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Margin="0,0,0,10">
+            <TextBlock Text="Роль:"/>
+            <ComboBox x:Name="cmbRole" Padding="3" SelectionChanged="Role_SelectionChanged">
+                <ComboBoxItem Content="Администратор" Tag="1"/>
+                <ComboBoxItem Content="Кладовщик" Tag="2"/>
+                <ComboBoxItem Content="Менеджер" Tag="3"/>
+                <ComboBoxItem Content="Клиент" Tag="4"/>
+            </ComboBox>
+        </StackPanel>
+
+        <!-- Блок для Сотрудника (ФИО и телефон) -->
+        <StackPanel x:Name="pnlStaff" Grid.Row="3" Visibility="Collapsed">
+            <TextBlock Text="Фамилия:" Margin="0,5,0,0"/>
+            <TextBox x:Name="txtFam" Padding="3"/>
+            <TextBlock Text="Имя:" Margin="0,5,0,0"/>
+            <TextBox x:Name="txtName" Padding="3"/>
+            <TextBlock Text="Отчество:" Margin="0,5,0,0"/>
+            <TextBox x:Name="txtOtch" Padding="3"/>
+            <TextBlock Text="Телефон:" Margin="0,5,0,0"/>
+            <TextBox x:Name="txtPhone" Padding="3"/>
+        </StackPanel>
+
+        <!-- Блок для Клиента (Компания, ФИО и скидка) -->
+        <ScrollViewer x:Name="pnlKlient" Grid.Row="3" Visibility="Collapsed" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock Text="Название компании:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtCompany" Padding="3"/>
+
+                <TextBlock Text="Телефон:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtCompPhone" Padding="3"/>
+
+                <TextBlock Text="Адрес:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtAddress" Padding="3"/>
+
+                <!-- ДОБАВЛЕНЫ ПОЛЯ ФИО -->
+                <TextBlock Text="Фамилия директора:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtKlientFam" Padding="3"/>
+                <TextBlock Text="Имя директора:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtKlientName" Padding="3"/>
+                <TextBlock Text="Отчество директора:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtKlientOtch" Padding="3"/>
+
+                <TextBlock Text="Скидка (%):" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtDiscount" Padding="3" Text="0"/>
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button Content="Сохранить" Click="Save_Click" Width="100" Margin="0,0,5,0" Padding="5"/>
+            <Button Content="Отмена"    Click="Cancel_Click" Width="100" Padding="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
