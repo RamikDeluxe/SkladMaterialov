@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\counterpartyeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\counterpartyeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\counterpartieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\counterpartieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\materialeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\materialeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\postavshikswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\postavshikswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\postavshikswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\postavshikswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\usereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\usereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\nakladnayaswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\nakladnayaswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\stockcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\stockcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\nakladnayaswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\nakladnayaswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\nakladnayaitemswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\nakladnayaitemswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\nakladnayaitemswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\nakladnayaitemswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\counterpartyeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\counterpartyeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\counterpartieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\counterpartieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\materialswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\materialswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\materialswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\materialswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\materialeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\materialeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|e:\\!programms\\!work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\skladwpf\\skladwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\proizvoditelswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\proizvoditelswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\proizvoditeleditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\proizvoditeleditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\postavshikeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\postavshikeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\postavshikeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\postavshikeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\proizvoditelswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\proizvoditelswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\skladwpf\\proizvoditeleditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0014F720-10A9-4C39-B58B-B7380909D8BC}|SkladWPF\\SkladWPF.csproj|solutionrelative:skladwpf\\proizvoditeleditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserEditWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UserEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\UserEditWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UserEditWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\UserEditWindow.xaml.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAswNQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:40:13.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserEditWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UserEditWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\UserEditWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UserEditWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\UserEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T18:40:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\UsersWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UsersWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\UsersWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv2UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:39:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UsersWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\UsersWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\UsersWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\UsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T18:39:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockColorConverter.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\StockColorConverter.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\StockColorConverter.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\StockColorConverter.cs",
+              "RelativeToolTip": "SkladWPF\\StockColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:07:41.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CounterpartyEditWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartyEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\CounterpartyEditWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartyEditWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\CounterpartyEditWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwEkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:39:16.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CounterpartyEditWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartyEditWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\CounterpartyEditWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartyEditWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\CounterpartyEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T17:39:10.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterpartiesWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartiesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\CounterpartiesWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartiesWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\CounterpartiesWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:38:51.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CounterpartiesWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartiesWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\CounterpartiesWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\CounterpartiesWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\CounterpartiesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T17:38:38.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Session.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\Session.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\Session.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\Session.cs",
+              "RelativeToolTip": "SkladWPF\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:46:58.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\RegisterWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:38:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\RegisterWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\RegisterWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T16:38:37.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:38:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\LoginWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T16:38:05.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\Authorization.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\Authorization.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\Authorization.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:26:47.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\Authorization.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\Authorization.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\Authorization.xaml",
+              "RelativeToolTip": "SkladWPF\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T12:24:08.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProizvoditelEditWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\ProizvoditelEditWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelEditWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\ProizvoditelEditWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:44:24.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProizvoditelEditWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelEditWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\ProizvoditelEditWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelEditWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\ProizvoditelEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:44:16.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MaterialEditWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\MaterialEditWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialEditWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\MaterialEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:43:37.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaterialEditWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialEditWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\MaterialEditWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialEditWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\MaterialEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:43:24.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NakladnayasWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayasWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\NakladnayasWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayasWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\NakladnayasWindow.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv2IAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:40:04.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MaterialsWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\MaterialsWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialsWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\MaterialsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:40:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\MainWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MainWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:37:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PostavshikEditWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshikEditWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\PostavshikEditWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshikEditWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\PostavshikEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:53:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PostavshikEditWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshikEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\PostavshikEditWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshikEditWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\PostavshikEditWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:53:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NakladnayaItemsWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayaItemsWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\NakladnayaItemsWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayaItemsWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\NakladnayaItemsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:54:17.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NakladnayaItemsWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayaItemsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\NakladnayaItemsWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayaItemsWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\NakladnayaItemsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:54:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\App.config",
+              "RelativeDocumentMoniker": "SkladWPF\\App.config",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\App.config",
+              "RelativeToolTip": "SkladWPF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-12T13:57:53.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\App.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\App.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\App.xaml",
+              "RelativeToolTip": "SkladWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:58:00.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\App.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\App.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:58:09.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportsWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ReportsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\ReportsWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ReportsWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\ReportsWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv1MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:40:03.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProizvoditelsWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\ProizvoditelsWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelsWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\ProizvoditelsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:40:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostavshiksWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshiksWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\PostavshiksWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshiksWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\PostavshiksWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:40:03.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ReportsWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\ReportsWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ReportsWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\ReportsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:39:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NakladnayasWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayasWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\NakladnayasWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\NakladnayasWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\NakladnayasWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:39:22.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostavshiksWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshiksWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\PostavshiksWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\PostavshiksWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\PostavshiksWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:39:07.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MaterialsWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialsWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\MaterialsWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MaterialsWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\MaterialsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:38:55.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProizvoditelsWindow.xaml",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelsWindow.xaml",
+              "RelativeDocumentMoniker": "SkladWPF\\ProizvoditelsWindow.xaml",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\ProizvoditelsWindow.xaml",
+              "RelativeToolTip": "SkladWPF\\ProizvoditelsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:38:42.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkladWPF\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\!Programms\\!Work\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SkladWPF\\SkladWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SkladWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:37:33.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿<Window x:Class="SkladWPF.MaterialEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Материал" Height="420" Width="450" WindowStartupLocation="CenterOwner">
+    <Grid Margin="15">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Наименование:" Margin="0,5"/>
+        <TextBox   Grid.Row="0" Grid.Column="1" x:Name="txtNazvanie" Margin="0,5"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Ед. измерения:" Margin="0,5"/>
+        <TextBox   Grid.Row="1" Grid.Column="1" x:Name="txtEdinIzm" Margin="0,5"/>
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Цена:" Margin="0,5"/>
+        <TextBox   Grid.Row="2" Grid.Column="1" x:Name="txtPrice" Margin="0,5"/>
+
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Дата поступления:" Margin="0,5"/>
+        <DatePicker Grid.Row="3" Grid.Column="1" x:Name="dpData" Margin="0,5"/>
+
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Срок хранения:" Margin="0,5"/>
+        <TextBox   Grid.Row="4" Grid.Column="1" x:Name="txtSrok" Margin="0,5"/>
+
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="Производитель:" Margin="0,5"/>
+        <ComboBox  Grid.Row="5" Grid.Column="1" x:Name="cmbProizvoditel"
+                   DisplayMemberPath="nazvanie" SelectedValuePath="id" Margin="0,5"/>
+
+        <StackPanel Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2"
+                    Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button Content="Сохранить" Click="Save_Click" Width="100" Margin="0,0,5,0" Padding="5"/>
+            <Button Content="Отмена"    Click="Cancel_Click" Width="100" Padding="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
